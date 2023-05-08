@@ -30,12 +30,14 @@ This repo will exhibit an overview of our restaurant before the opening event. S
  ----------------------------------------------------------------------------
 
 figure>
+<img src="./images/img1.png" width="200">
 
 <img src="../_images/img2.png" alt=" Image."/>
 <figure-caption> The Sellfish </figure-caption>
 
 </figure>
 
+<img src="./images/img1.png" width="200">
  
 ------------------------------------ THE END ---------------------------
 ************************************************************************
