@@ -1,32 +1,41 @@
 # my-restaurant  
+
+This repo will exhibit an overview of our restaurant before the opening event. So, get ready!
 -----------------------------------------------------------------------------
-Saja ------------ Restaurant
+*****************************************************************************
 -----------------------------------------------------------------------------
 *****************************************************************************
 
 
-# Saja's Restaurant 
- ## sea food  dishis that restaurant will offer
- ****************************************************************************
+#  Restaurant OverView 
 
+[This is an external link to Scotts](https://scotts-mayfair.com/menus/)
 
-### Menu 
-1. Salamon 
-2. Fishes 
-3. Tona 
-4. Mahar
+## NAME  :   Scott's restaurant
 
-------------------------------------------------------------------------------
-******************************************************************************
-# welcome to [Saja's Restaurant ] (https://www.tcib.com/case-study/saja-restaurant-group/ )  .
+## Dishes Will Offor : A La Carte -Desert  - Cocktails - Wine -Vegeterian -
+
+## Menu Fishs OF The Day
+1. Grilled      50$
+2. Fired        75$
+3. pan- Fired   100$ 
+
+<figure>
+
+<img src="../_images/img1.png" alt=" Image."/>
+<figure-caption> The Scott's .</figure-caption>
+
+</figure>
+
+ ----------------------------------------------------------------------------
+
+figure>
+
+<img src="../_images/img2.png" alt=" Image."/>
+<figure-caption> The Sellfish </figure-caption>
+
+</figure>
+
  
-
-
- ****************************************************************************
- ****************************************************************************
-
-
-![image not found](Desktop\fish.webp "Sea Food")
-![image not found](Desktop\ltuc.png "LTUC")
-
-
+------------------------------------ THE END ---------------------------
+************************************************************************
