@@ -20,24 +20,16 @@ This repo will exhibit an overview of our restaurant before the opening event. S
 2. Fired        75$
 3. pan- Fired   100$ 
 
-<figure>
 
-<img src="../_images/img1.png" alt=" Image."/>
-<figure-caption> The Scott's .</figure-caption>
+<ul>
+            <li> Mansaf </li>
+            <img src="https://1.bp.blogspot.com/-Hpl0hnzq3Ag/WzCrhqTTZJI/AAAAAAAAK6Q/7_yYs-pxhYA4muoa3IRBBcwtRU6zp4M1QCEwYBhgL/s1600-rw/Mansaf_02.jpg" alt="Mansaf" width="250" height="250">
+            <li>Tikka</li>
+            <img src="https://cafedelites.com/wp-content/uploads/2018/04/Best-Chicken-Tikka-Masala-IMAGE-2.jpg"  alt="masala chicken" width="250" height="250">
+            <li> Musakhan</li>
+            <img src="https://littlesunnykitchen.com/wp-content/uploads/2022/04/Musakhan-1.jpg"  alt="Musakhan" width="250" height="250">
+        </ul>
 
-</figure>
-
- ----------------------------------------------------------------------------
-
-figure>
-<img src="./images/img1.png" width="200">
-
-<img src="../_images/img2.png" alt=" Image."/>
-<figure-caption> The Sellfish </figure-caption>
-
-</figure>
-
-<img src="./images/img1.png" width="200">
  
 ------------------------------------ THE END ---------------------------
 ************************************************************************
