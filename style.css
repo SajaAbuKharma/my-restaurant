@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+
+    padding: 0%;
+
+
+    box-sizing: border-box;
+}
+
+ .header {
+
+background-color: #BBD6B8;
+
+    display: flex;
+    justify-content: space-around ;
+
+    align-items: center;
+    height: 50px;
+
+ }
+
+  .img {
+
+    width: 10%;
+    height: 10%;
+
+
+ }
+ .header ul {
+    display: flex;
+ }
+
+ .header li {
+    list-style: lower-latin;
+ }
+
+
+ .footer {
+
+ height: 20px;
+    background-color: #BBD6B8;
+
+ }
+
+ .footer .p {
+    background-color: blueviolet;
+    background-size: 2%;
+ }
