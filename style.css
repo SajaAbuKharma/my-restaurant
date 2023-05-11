@@ -11,11 +11,7 @@
 
 background-color: #BBD6B8;
 
-    display: flex;
-    justify-content: space-around ;
-
-    align-items: center;
-    height: 50px;
+    
 
  }
 
@@ -29,17 +25,20 @@ background-color: #BBD6B8;
 
  .header li {
     list-style: lower-latin;
+    list-style-position:inherit;
+
+
  }
 
 
  .footer {
 
  height: 20px;
-    background-color: #BBD6B8;
+    background-color: #e76eb5;
 
  }
 
- .footer .p {
+ .footer h3 {
     background-color: blueviolet;
     background-size: 2%;
  }
