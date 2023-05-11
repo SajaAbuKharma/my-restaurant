@@ -38,12 +38,6 @@ This repo will exhibit an overview of our restaurant before the opening event. S
 ************************************************************************
 
 
-![My Image](../my-restaurant/wireframe/wirframe-home.jpeg)
-
-
-
-
-
-
-![My Image](../my-restaurant/wireframe/wireframe-about.jpeg)
+![my image](/wireframe/wireframe-about.jpeg)
+![My Image](/wireframe/wirframe-home.jpeg)
 

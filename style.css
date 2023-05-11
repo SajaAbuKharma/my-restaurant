@@ -19,15 +19,12 @@ background-color: #BBD6B8;
 
  }
 
-  .img {
+  
 
-    width: 10%;
-    height: 10%;
-
-
- }
+ 
  .header ul {
     display: flex;
+    color: blueviolet;
  }
 
  .header li {
